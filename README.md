@@ -16,7 +16,7 @@ Portfolio Site for FrontEnd Developers
 ## Dev-ops
 
 > AWS - [EC2, S3, Route53, CloudFront]  
-> Docker
+> Docker  
 > Github Action  
 
 ## DB 
